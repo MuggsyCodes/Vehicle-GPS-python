@@ -1,4 +1,7 @@
-# Toyota-Project
+# Built as a customer facing demo program
+
+VehicleGPS data collection built with Python. Program used alongside Arduino GPS module to collect in vehicle data for dynamic testing of components contributing to Noise Vibration and Harshness.
+
 Data Collection and Post Processing Program built using the following: 
 
 *Python including use of: pandas, numpy, matplotlib and other libraries. 
